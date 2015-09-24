@@ -1,0 +1,224 @@
+daily itinerary
+
+?? tradable pet prices across realms
+
+perdition: trigunshin@gmail.com//SH1get0_lawl
+
+MISC
+	serendipity stack indicator
+	mana indicator as a %
+	demidos, omuro world boss groups
+	DORA - http://www.wowhead.com/quest=32679/thunder-calls#comments
+
+MISC:
+	timeless isle:
+		(soon) pet tourney
+		(aequ) glyphs?
+
+	shadowmourne:
+		boost a pally - heal/shadowmourne (bottable method?)
+		use a DK/spam DKs
+
+DORA
+	4x craft CDs
+	garrison missions
+	garrison mats
+	inn recruiter
+	pet menagerie
+
+	raid prep
+		mana/channel pot, flask, food
+	quick enchanting review
+	quick jc review (taladite crystal count)
+	savage blood price
+
+	extra:
+		mine/herb
+		http://www.wowhead.com/item=94288/giant-dinosaur-bone#objective-of
+	XMOG:
+		*Gossamer (black/white/gold) http://www.wowhead.com/transmog-set=1652/gossamer-regalia-recolor
+		Gossamer (black) http://www.wowhead.com/transmog-set=1655/gossamer-regalia-recolor
+			Strath - Ramstein the gorger - Soulstealer mantle
+			MC - majordomo - sash of whispered secrets (gossamer)
+			SFK - Baron Ashbury - robes of arugal
+			AH: - drakeweave raiment - sleeveless version of robes
+		Nethwerwind (bright purple) - http://www.wowhead.com/transmog-set=395/netherwind-regalia-recolor
+		Hallowed - dark purple/gray - http://www.wowhead.com/transmog-set=874/hallowed-raiment
+			Shattered Halls - Kargath bladefirst - handwraps
+			old hillsbrad - epoch hunter - cord of sancification
+		mana-etched - gray-green - http://www.wowhead.com/transmog-set=877/mana-etched-regalia
+			hellfire ramparts - omorr - gloves
+			old hillsbrad - epoch hunter - mana-etched vestments
+			
+			Kara - curator - pauldrons of the solace-giver
+			*glyph-lined sash
+			*headress of hte high potentate
+		BWL:
+			nefarian - t2 chest
+		BC:
+			magtheridon - staff
+			SSC:
+			 	hydross - wrist - wraps of purification
+
+AEQU
+	4x craft CDs
+	garrison missions
+	garrison mats
+	inn recruiter
+
+	extra:
+		mine/herb
+		CDs:
+			trillium bar?
+			living steel (jade/ruby/sapphire/sunstone panther, pierre, rascalbot)
+				needs Jard's Peculiar Energy Source
+			spirit of wisdom (xmog)
+		AH:
+			catalyst, herbs, fire/water
+			# of war paints
+			potion/flask search/post
+		pet quests in pandaria
+		level/follower quests
+		(eventually LFR/coins/raiding)
+
+		hit 100, get ~630-640 level, and...
+			http://www.wowhead.com/item=94288/giant-dinosaur-bone#objective-of
+			timeless isle glyph farm
+
+  
+VARTWA
+	4x craft CDs
+	garrison missions
+	garrison mats
+	inn recruiter
+	pet menagerie
+
+	extra:
+		mine/herb
+		legendary quest
+		follower quests
+	AH:
+		bs/tailor mat count
+		(old bs/tailor cd?)
+
+PET_RAIDS
+	aq40: visc, twin
+	ssc: hydro, moro, vashj
+	kara: illhoof, wolf, curator, prince*
+	tk: alar, solarian
+
+PETS:
+	Unborn Valkyr
+	ToC dailies:
+		2-5k/ea, @ 40 currency per pet
+	Darkmoon:
+		2-5k/ea, @ 90 currency per pet
+		rabbit/moonmoon rare spawns
+		pet battle daily (acct): syd the squid rare pet
+	MC
+		Golemagg - Ashstone Core - 100g
+		Magmadar - Corefire Imp - 100g
+		Sulfuron Harbinger - Harbinger of Flame - 100g
+	BWL
+		Razorgore - Untamed Hatchling - 200g
+		Chromaggus - Chrominius - 500g
+		Broodlord Lashlayer - Death Talon Whelpguard - 200g
+	AQ40
+		skeram - mini mindslayer - 100g
+		Viscidus - Viscidus Globule - COLD DMG - 2.5-4k
+		Twin Emps - Anubisath Idol - 4k
+	SSC
+		Vashj - Coilfang Stalker - 2-2.5k+
+		Hydross - Tainted Waveling - 1-1.5k
+		Morogrim - Tideskipper - 2-3k
+	Kara
+		Terestian ill - Fiendish Imp - 1k
+		badwolf - lil' bad wolf - 1k
+		curator - menagerie custodian - 500g
+		prince - netherspace abyssal - 3-5k
+	TK - Eye
+		al'ar - phoenix hawk hatchling - 500-1k (breed)
+		void reaver - pocket reaver - 300g
+		Solarian - Lesser Voidcaller - 500-1.5k
+	Naxx
+		Loatheb - Fungal Abomination - 100g
+		Maexxna - Giant Bone Spider - 250g
+		Gluth - Stitched Pup - 400g
+	Throne of Thunder - 
+		JiKun - JiKun Hatchling - 10-20k
+		primordius - living fluid - 7-10k
+		primordius - viscous horror (normal/heroic) - ~15k
+		sand elemental - living sandling - 2-3k
+		horridon - pygmy direhorn - 5-15k
+		dark animus - son of animus - 15-25k
+	SoO
+		Blackfuse - Blackfuse Bombling - 5-10k
+		Sha of Pride - Droplet of YShaarj (Flex/Normal/Heroic) - 5-30k
+		Sha of Pride - Gooey Sha-ling (LFR/Flex) - 3-5k
+		Paragons - Kovok - 5-20k
+
+
+
+
+
+
+
+
+mulgore hatchling: ~3k, argent tournament
+
+https://docs.google.com/spreadsheets/d/1pSt2OZfefsJw5g-_hOkRkNoJQKnns9mTTd4fo6cFLv0/edit#gid=0
+5x in vanilla (4 from aq, 1 from strat)
+
+MOUNTS
+Level 60
+Instances
+ Deathcharger's Reins - Stratholme - Lord Aurius Rivendare
+Raids
+ Red Qiraji Resonating Crystal - Temple of Ahn'Qiraj - Trash
+
+Level 70
+Instances
+ Reins of the Raven Lord - Sethekk Halls (Heroic) - Anzu
+ Swift White Hawkstrider - Magisters' Terrace (Heroic) - Kael'thas Sunstrider
+Raids
+ Fiery Warhorse's Reins - Karazhan - Attumen the Huntsman
+ Ashes of Al'ar - The Eye (Tempest Keep) - Kael'thas Sunstrider
+
+Level 80
+Instances
+ Reins of the Blue Proto-Drake - Utgarde Pinnacle (Heroic) - Skadi the Ruthless
+Raids
+ Reins of the Grand Black War Mammoth - Vault of Archavon - All 4 Bosses
+ Reins of the Azure Drake - The Eye of Eternity - Malygos
+ Reins of the Blue Drake - The Eye of Eternity - Malygos
+ Reins of the Onyxian Drake - Onyxia's Lair - Onyxia
+ Mimiron's Head - Ulduar - Yogg-Saron (No Watchers - 25)
+ Invincible's Reins - Icecrown Citadel - The Lich King (Heroic - 25)
+
+Level 85
+Instances
+ Reins of the Drake of the North Wind - The Vortex Pinnacle - Altairus
+ Reins of the Vitreous Stone Drake - The Stonecore - Slabhide
+ Swift Zulian Panther - Zul'Gurub - High Priestess Kilnara
+ Armored Razzashi Raptor - Zul'Gurub - Bloodlord Mandokir
+ Amani Battle Bear - Zul'Aman - Timed Reward
+
+Raids
+ Reins of the Drake of the South Wind - Throne of the Four Winds - Al'Akir
+ Flametalon of Alysrazor - Firelands - Alysrazor
+ Smoldering Egg of Millagazor - Firelands - Ragnaros
+ Experiment 12-B - Dragon Soul - Ultraxion
+ Reins of the Blazing Drake - Dragon Soul - Deathwing
+ Life-Binder's Handmaiden - Dragon Soul - Deathwing (Heroic - 10/25)
+
+Level 90
+World Boss
+ Reins of the Heavenly Onyx Cloud Serpent - Kun-Lai Summit - Sha of Anger
+ Son of Galleon's Saddle - Valley of the Four Winds - Galleon
+ Reins of the Thundering Cobalt Cloud Serpent - Isle of Thunder - Nalak
+ Reins of the Cobalt Primordial Direhorn - Isle of Giants - Oondasta
+
+Raids
+ Reins of the Astral Cloud Serpent - Mogu'shan Vaults - Elegon
+ Spawn of Horridon - Throne of Thunder - Horridon
+ Clutch of Ji-Kun - Throne of Thunder - Ji-Kun

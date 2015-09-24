@@ -1,0 +1,60 @@
+bot
+	buddycon: derivative/BC0n_buddy
+	buddyauth: derivaitve/email
+
+	GOLD -> CDKEY/GAMETIME - http://www.ownedcore.com/forums/mmo-trading-market/world-of-warcraft-buy-sell-trade/384870-legit-eu-us-wod-key-instant-90-60-days-timecard-battlechest-mop-d3-ros-sc2-gw2.html
+
+	install wizard? - https://www.thebuddyforum.com/releases/68254-install-buddy-product-try-buddy-dependency-wizard-post704565.html#post704565
+
+PLUGIN
+	monits
+		1: https://www.thebuddyforum.com/honorbuddy-forum/plugins/monitoring/70598-jglidemon-original-mmoglider-monitor-hb-updated.html
+		2: https://www.thebuddyforum.com/archives/42865-gliderremotecompat-jglidemon-3-maybe.html
+
+	bcon - https://www.thebuddyforum.com/honorbuddy-forum/plugins/monitoring/68449-plugin-buddycon.html
+
+	dev overlay - https://www.thebuddyforum.com/honorbuddy-forum/plugins/featured/144370-plugin-honorbuddy-game-overlay.html
+
+	plugin-helper - https://www.thebuddyforum.com/honorbuddy-forum/plugins/141210-profiles-plug-creating-profiles-video-tutorial.html
+
+	lockout? - https://www.thebuddyforum.com/honorbuddy-forum/200290-checking-instance-locked-post1830322.html#post1830322
+
+	useful snippets - https://www.thebuddyforum.com/rebornbuddy-forum/rebornbuddy-profiles/175506-useful-code-snippets-developing-quest-profiles.html
+
+botbase
+	nav - https://www.thebuddyforum.com/honorbuddy-forum/botbases/52184-bot-clicktogo-moves-bot-locations-clicked-inside-atlas.html
+
+PROFILES
+	followers - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/requests-and-discussion/194507-followers.html
+
+	ICC - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/186704-shootyz-icc-icecrown-citadel-run.html
+
+	AH - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/professions/52058-professionbuddy-ahbuddy-auction-house-bot.html
+	
+	all? - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/140913-azyul-transmog-farms-dungeon-grinds-item-gathering.html
+
+	X*anzu - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/51582-fly-raven-lord-run-sethekk-halls.html
+
+	some mop mounts - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/188586-gb2-zandalari-warbringer-mount-farm.html
+
+	wotlk blue proto - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/161954-mog-extract-blue-proto-drake-daily-farm-3.html
+
+	icecrown rep, battered hilt - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/49936-pit-saron-trash-endless-farm-battered-hilt-wolk-tabard-rep.html
+
+	karazhan mount - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/185840-karazhan-mount-farm.html
+
+	icc ashen_verdict - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/93914-icecrown-citedel-ashen-verdict-rep-farm.html
+
+	large timeless isle pack - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/169301-grind-timeless-isle-bigpack-zoomland.html
+
+	timeless isle - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/161824-grind-bot-timeless-isle-coin-epoch-epic-boa-farming.html
+
+	zul gurub - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/186179-zul-gurub.html
+
+	AQ40**PARTIAL - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/126305-aq40-weekly-farm.html
+
+	lunar festival - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/farming/103970-holiday-lunar-festival-2013-a.html
+
+	valkyr - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/pets/158979-unborn-valkyr-farm-gb2.html
+
+	darkmoon - https://www.thebuddyforum.com/honorbuddy-forum/honorbuddy-profiles/neutral/52052-darkmoon-faire-quests-quest-behaviors.html

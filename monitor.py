@@ -24,7 +24,7 @@ load_urls(sel, urls_to_open)
 #sel.get(armory_url % items.draenor_herbs[0])
 
 # items = reload(items)
-
+# shuffles = reload(shuffles)
 
 "https://us.battle.net/wow/en/vault/character/auction/browse?reverse=false&sort=unitBuyout&maxLvl=-1&itemId=%d&minLvl=-1&filterId=-1&start=0&qual=1&end=40"
 
